@@ -1,0 +1,63 @@
+.oswald-uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.jacquard-12-regular {
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+body{
+
+height:fit-content
+width: auto;
+
+
+}
+
+.my-box {
+    /* Dimensions */
+    width: 240px;
+    height: 320px;
+
+    /* Appearance */
+    background-color: #808386; /* Blue background color */
+    color: white;              /* White text color */
+    
+    border-radius: 5px;        /* Slightly rounded corners */
+
+    /* Spacing and Alignment */
+    padding: 20px;             /* Space between the content and the border */
+    margin: 30px auto;         /* Space outside the border; 'auto' centers the box horizontally */
+    text-align: center;        /* Centers the text inside the box */
+}
+
+#see{
+
+
+font-family: "Oswald";
+font-size: small;
+font-size: 25px;
+width: 600px;
+
+
+
+
+}
+
+#come{
+
+position: relative;right: -1200px;top: -100px;
+font-family: "Jacquard 12";
+font-size: 30px;
+font-style: italic;
+color: darkolivegreen;
+width: 50px;
+
+}
